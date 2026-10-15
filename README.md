@@ -1,2 +1,1 @@
 # academic-records-reconciliation
-# plantilla
